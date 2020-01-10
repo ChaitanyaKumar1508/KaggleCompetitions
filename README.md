@@ -19,3 +19,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 ## Motivation for the project 
 This is one of the most important and basic problem statement for Machine Learning. Being one of the most well known disatser in the history of mankind, the movie made on this made people feel and relate to the infamous incident.
+
+The idea here is to get the insights out of the passenger data available (source: Kaggle), and build a predictive model to predict the survivors of the disaster.
+
+Intially we will try to find out the important features which helps in identifying the survival better. Later we use various Machine Learning methods to see which performs better on this data.
