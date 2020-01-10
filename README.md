@@ -8,6 +8,8 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc). 
 
+!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pbssocal.org%2Fprograms%2Fempire-of-the-air%2Ftitanic-disaster-jpuoub%2F&psig=AOvVaw34T45H6N40dhnd4M3XmFoG&ust=1578756066424000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDN0_Kq-eYCFQAAAAAdAAAAABAK)
+
 ## Packges used 
 - pandas
 - numpy 
