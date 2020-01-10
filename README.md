@@ -23,3 +23,6 @@ This is one of the most important and basic problem statement for Machine Learni
 The idea here is to get the insights out of the passenger data available (source: Kaggle), and build a predictive model to predict the survivors of the disaster.
 
 Intially we will try to find out the important features which helps in identifying the survival better. Later we use various Machine Learning methods to see which performs better on this data.
+
+For more visit the following blog :
+https://medium.com/@chaitanya.ck100/who-had-better-chance-of-surviving-the-titanic-disaster-1591931b7270
